@@ -3,3 +3,4 @@ Git öğreniyorum.
 2-Merge ettim
 3-Branch değiştir.
 5-Yeni branch
+6-Hata yakalama
