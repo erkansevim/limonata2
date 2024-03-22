@@ -1,2 +1,3 @@
 Git öğreniyorum.
 1-Branch'a geçtim.
+2-Merge ettim
