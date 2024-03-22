@@ -3,4 +3,5 @@ Git öğreniyorum.
 2-Merge ettim
 3-Branch değiştir.
 5-Yeni branch
-5-HataHata
+6-HataHata
+
