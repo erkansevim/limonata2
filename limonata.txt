@@ -2,3 +2,4 @@ Git öğreniyorum.
 1-Branch'a geçtim.
 2-Merge ettim
 3-Branch değiştir.
+5-Yeni branch
